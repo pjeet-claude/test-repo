@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - claude/hello-world-react-app-011CUqQ1BTNNMhMBhk8THPUD
   workflow_dispatch:
 
 permissions:
