@@ -27,6 +27,6 @@ npm run preview
 
 ## Deployment
 
-This app is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the main branch.
+This app is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the default branch.
 
-View the live app at: https://pjeet-claude.github.io/test-repo/
+View the live app at: https://parthjeet.com/
